@@ -1,1 +1,4 @@
-Rakesh Sir is a very shy person. He don't want to talk with girls.
+public class RakeshSir{
+    int x=10;
+    int y=20;
+}
