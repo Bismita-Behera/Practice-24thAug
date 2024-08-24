@@ -1,2 +1,5 @@
 public class UIManager{
+     public static void UIrender(){
+
+     }
 }
