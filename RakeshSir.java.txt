@@ -1,4 +1,4 @@
 public class RakeshSir{
-    int x=10;
-    int y=20;
+    
+    
 }
