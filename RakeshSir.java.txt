@@ -1,13 +1,10 @@
 public class RakeshSir{
-
+     int j=20;
     public static void m1(){
     }
    //Bug-193 fixed
     public void m2(){
     }
 
-    //Bug-190 changes
-    public void doProcess(){
-}
-
+   
 }
